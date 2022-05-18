@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.less"],"names":[],"mappings":"AAAA,KAGQ,MAAA","file":"main.min.less","sourcesContent":["body{\r\n    p {\r\n        font-size: 27px ;\r\n        color:red;\r\n    }\r\n}"]}
